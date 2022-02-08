@@ -87,5 +87,41 @@
     <ClCompile Include="버퍼_지우기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="문자열_상수_주소.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터_문자열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_문자열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gets_문자열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fgets_문자열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="버퍼_공유_문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strcmp_strncmp.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="정적_지역_변수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원_배열_초가화.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원_char_배열_초기화.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터_배열1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터_배열2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
