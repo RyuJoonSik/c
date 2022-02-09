@@ -123,5 +123,62 @@
     <ClCompile Include="포인터_배열2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="이중_포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이중_포인터_활용1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이중_포인터_활용2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원_배열과_배열_포인터1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원_배열과_배열_포인터2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수_포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수_포인터_활용.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="void_포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc_free.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동적_할당_배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동적_할당_문자열_처리1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동적_할당_문자열_처리2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main_함수_명령행_인수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체_멤버.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체_변수_초기화.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체_포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체_배열_함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="자기_참조_구조체_연결_리스트.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
