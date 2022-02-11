@@ -180,5 +180,54 @@
     <ClCompile Include="자기_참조_구조체_연결_리스트.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="공용체.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="열거형.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef_자료형_재정의.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="파일.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fgetc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="표준_입출력_스트림_파일.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="파일_형태_개방_모드1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fputc_함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="파일_형태_개방_모드2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fread_fwrite.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="전처리.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="매크로.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="매크로_함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="a.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="student.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
